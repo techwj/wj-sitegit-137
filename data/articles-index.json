@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-money-saving-life-tips",
+      "title": "The Ultimate Guide to Beginner Money Saving Life Tips",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.554578",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Money Saving Life Tips",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-money-saving-life-tips-everything-you-need-to-know",
+      "title": "Beginner Money Saving Life Tips: Everything You Need to Know",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.554727",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: Beginner Money Saving Life Tips: Everything You Need to Know",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-money-saving-life-tips",
+      "title": "Understanding Beginner Money Saving Life Tips",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.554833",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Understanding Beginner Money Saving Life Tips",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-money-saving-life-tips-tips-and-best-practices",
+      "title": "Beginner Money Saving Life Tips Tips and Best Practices",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.554923",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Beginner Money Saving Life Tips Tips and Best Practices",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-money-saving-life-tips",
+      "title": "The History of Beginner Money Saving Life Tips",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555018",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: The History of Beginner Money Saving Life Tips",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-money-saving-life-tips-in-2026-current-trends",
+      "title": "Beginner Money Saving Life Tips in 2026: Current Trends",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555096",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Beginner Money Saving Life Tips in 2026: Current Trends",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-money-saving-life-tips",
+      "title": "Future of Beginner Money Saving Life Tips",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555181",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Future of Beginner Money Saving Life Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-money-saving-life-tips",
+      "title": "Common Mistakes in Beginner Money Saving Life Tips",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555260",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: Common Mistakes in Beginner Money Saving Life Tips",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-money-saving-life-tips-for-beginners",
+      "title": "Beginner Money Saving Life Tips for Beginners",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555341",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Beginner Money Saving Life Tips for Beginners",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-money-saving-life-tips-techniques",
+      "title": "Advanced Beginner Money Saving Life Tips Techniques",
+      "category": "beginner-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.555419",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Advanced Beginner Money Saving Life Tips Techniques",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-money-saving-life-tips",
+      "title": "The Ultimate Guide to Advanced Money Saving Life Tips",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556125",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Money Saving Life Tips",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-money-saving-life-tips-everything-you-need-to-know",
+      "title": "Advanced Money Saving Life Tips: Everything You Need to Know",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556201",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Advanced Money Saving Life Tips: Everything You Need to Know",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-money-saving-life-tips",
+      "title": "Understanding Advanced Money Saving Life Tips",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556291",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Understanding Advanced Money Saving Life Tips",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-money-saving-life-tips-tips-and-best-practices",
+      "title": "Advanced Money Saving Life Tips Tips and Best Practices",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556368",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Advanced Money Saving Life Tips Tips and Best Practices",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-money-saving-life-tips",
+      "title": "The History of Advanced Money Saving Life Tips",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556445",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: The History of Advanced Money Saving Life Tips",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-money-saving-life-tips-in-2026-current-trends",
+      "title": "Advanced Money Saving Life Tips in 2026: Current Trends",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556525",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Advanced Money Saving Life Tips in 2026: Current Trends",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-money-saving-life-tips",
+      "title": "Future of Advanced Money Saving Life Tips",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556613",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Future of Advanced Money Saving Life Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-money-saving-life-tips",
+      "title": "Common Mistakes in Advanced Money Saving Life Tips",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.556692",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Common Mistakes in Advanced Money Saving Life Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-money-saving-life-tips-for-beginners",
+      "title": "Advanced Money Saving Life Tips for Beginners",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.558271",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Advanced Money Saving Life Tips for Beginners",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-money-saving-life-tips-techniques",
+      "title": "Advanced Advanced Money Saving Life Tips Techniques",
+      "category": "advanced-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.558491",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Advanced Advanced Money Saving Life Tips Techniques",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-money-saving-life-tips-tips",
+      "title": "The Ultimate Guide to Money Saving Life Tips Tips",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.559243",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: The Ultimate Guide to Money Saving Life Tips Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 38,
+      "slug": "money-saving-life-tips-tips-everything-you-need-to-know",
+      "title": "Money Saving Life Tips Tips: Everything You Need to Know",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.559320",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Money Saving Life Tips Tips: Everything You Need to Know",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-money-saving-life-tips-tips",
+      "title": "Understanding Money Saving Life Tips Tips",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.559398",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Understanding Money Saving Life Tips Tips",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 40,
+      "slug": "money-saving-life-tips-tips-tips-and-best-practices",
+      "title": "Money Saving Life Tips Tips Tips and Best Practices",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.559481",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Money Saving Life Tips Tips Tips and Best Practices",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-money-saving-life-tips-tips",
+      "title": "The History of Money Saving Life Tips Tips",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.559706",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: The History of Money Saving Life Tips Tips",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 42,
+      "slug": "money-saving-life-tips-tips-in-2026-current-trends",
+      "title": "Money Saving Life Tips Tips in 2026: Current Trends",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.560291",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Money Saving Life Tips Tips in 2026: Current Trends",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-money-saving-life-tips-tips",
+      "title": "Future of Money Saving Life Tips Tips",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.560445",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Future of Money Saving Life Tips Tips",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-money-saving-life-tips-tips",
+      "title": "Common Mistakes in Money Saving Life Tips Tips",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.560534",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Common Mistakes in Money Saving Life Tips Tips",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 45,
+      "slug": "money-saving-life-tips-tips-for-beginners",
+      "title": "Money Saving Life Tips Tips for Beginners",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.560654",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Money Saving Life Tips Tips for Beginners",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-money-saving-life-tips-tips-techniques",
+      "title": "Advanced Money Saving Life Tips Tips Techniques",
+      "category": "tips-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.560737",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Advanced Money Saving Life Tips Tips Techniques",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-money-saving-life-tips-history",
+      "title": "The Ultimate Guide to Money Saving Life Tips History",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561415",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: The Ultimate Guide to Money Saving Life Tips History",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 56,
+      "slug": "money-saving-life-tips-history-everything-you-need-to-know",
+      "title": "Money Saving Life Tips History: Everything You Need to Know",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561483",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Money Saving Life Tips History: Everything You Need to Know",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-money-saving-life-tips-history",
+      "title": "Understanding Money Saving Life Tips History",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561559",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Understanding Money Saving Life Tips History",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 58,
+      "slug": "money-saving-life-tips-history-tips-and-best-practices",
+      "title": "Money Saving Life Tips History Tips and Best Practices",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561674",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: Money Saving Life Tips History Tips and Best Practices",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-money-saving-life-tips-history",
+      "title": "The History of Money Saving Life Tips History",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561750",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: The History of Money Saving Life Tips History",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 60,
+      "slug": "money-saving-life-tips-history-in-2026-current-trends",
+      "title": "Money Saving Life Tips History in 2026: Current Trends",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561813",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Money Saving Life Tips History in 2026: Current Trends",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-money-saving-life-tips-history",
+      "title": "Future of Money Saving Life Tips History",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561885",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: Future of Money Saving Life Tips History",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-money-saving-life-tips-history",
+      "title": "Common Mistakes in Money Saving Life Tips History",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.561951",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Common Mistakes in Money Saving Life Tips History",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 63,
+      "slug": "money-saving-life-tips-history-for-beginners",
+      "title": "Money Saving Life Tips History for Beginners",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562011",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Money Saving Life Tips History for Beginners",
+        "width": 1065,
+        "height": 479
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-money-saving-life-tips-history-techniques",
+      "title": "Advanced Money Saving Life Tips History Techniques",
+      "category": "history-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562071",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Advanced Money Saving Life Tips History Techniques",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-money-saving-life-tips",
+      "title": "The Ultimate Guide to Trending Money Saving Life Tips",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562647",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: The Ultimate Guide to Trending Money Saving Life Tips",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-money-saving-life-tips-everything-you-need-to-know",
+      "title": "Trending Money Saving Life Tips: Everything You Need to Know",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562717",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Trending Money Saving Life Tips: Everything You Need to Know",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-money-saving-life-tips",
+      "title": "Understanding Trending Money Saving Life Tips",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562789",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Understanding Trending Money Saving Life Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-money-saving-life-tips-tips-and-best-practices",
+      "title": "Trending Money Saving Life Tips Tips and Best Practices",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562855",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Trending Money Saving Life Tips Tips and Best Practices",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-money-saving-life-tips",
+      "title": "The History of Trending Money Saving Life Tips",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.562934",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: The History of Trending Money Saving Life Tips",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-money-saving-life-tips-in-2026-current-trends",
+      "title": "Trending Money Saving Life Tips in 2026: Current Trends",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563001",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Trending Money Saving Life Tips in 2026: Current Trends",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-money-saving-life-tips",
+      "title": "Future of Trending Money Saving Life Tips",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563069",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Future of Trending Money Saving Life Tips",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-money-saving-life-tips",
+      "title": "Common Mistakes in Trending Money Saving Life Tips",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563134",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Common Mistakes in Trending Money Saving Life Tips",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-money-saving-life-tips-for-beginners",
+      "title": "Trending Money Saving Life Tips for Beginners",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563204",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Trending Money Saving Life Tips for Beginners",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-money-saving-life-tips-techniques",
+      "title": "Advanced Trending Money Saving Life Tips Techniques",
+      "category": "trending-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563269",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Advanced Trending Money Saving Life Tips Techniques",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-money-saving-life-tips-tutorials",
+      "title": "The Ultimate Guide to Money Saving Life Tips Tutorials",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563902",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: The Ultimate Guide to Money Saving Life Tips Tutorials",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 92,
+      "slug": "money-saving-life-tips-tutorials-everything-you-need-to-know",
+      "title": "Money Saving Life Tips Tutorials: Everything You Need to Know",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.563968",
+      "image": {
+        "id": "65b07792bf5c4135fd546aaa1c6094b4726d6e2ed4fc7499c7364aec8b1a1431",
+        "url": "https://picsum.photos/961/589?random=410",
+        "alt": "Featured image for: Money Saving Life Tips Tutorials: Everything You Need to Know",
+        "width": 961,
+        "height": 589
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-money-saving-life-tips-tutorials",
+      "title": "Understanding Money Saving Life Tips Tutorials",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564047",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Understanding Money Saving Life Tips Tutorials",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 94,
+      "slug": "money-saving-life-tips-tutorials-tips-and-best-practices",
+      "title": "Money Saving Life Tips Tutorials Tips and Best Practices",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564115",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Money Saving Life Tips Tutorials Tips and Best Practices",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-money-saving-life-tips-tutorials",
+      "title": "The History of Money Saving Life Tips Tutorials",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564185",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: The History of Money Saving Life Tips Tutorials",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 96,
+      "slug": "money-saving-life-tips-tutorials-in-2026-current-trends",
+      "title": "Money Saving Life Tips Tutorials in 2026: Current Trends",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564284",
+      "image": {
+        "id": "f5674cce75ceced1524152280e81c4b56dc37ab53d4bb99dfb0874824aa097ed",
+        "url": "https://picsum.photos/844/515?random=758",
+        "alt": "Featured image for: Money Saving Life Tips Tutorials in 2026: Current Trends",
+        "width": 844,
+        "height": 515
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-money-saving-life-tips-tutorials",
+      "title": "Future of Money Saving Life Tips Tutorials",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564357",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Future of Money Saving Life Tips Tutorials",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-money-saving-life-tips-tutorials",
+      "title": "Common Mistakes in Money Saving Life Tips Tutorials",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564432",
+      "image": {
+        "id": "33733edfddaefc19a850c61514c8c160b3316cd7da1e2948a8c96c98e4344fc3",
+        "url": "https://picsum.photos/1187/487?random=276",
+        "alt": "Featured image for: Common Mistakes in Money Saving Life Tips Tutorials",
+        "width": 1187,
+        "height": 487
+      }
+    },
+    {
+      "id": 99,
+      "slug": "money-saving-life-tips-tutorials-for-beginners",
+      "title": "Money Saving Life Tips Tutorials for Beginners",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564502",
+      "image": {
+        "id": "9504bf8701a2b1e5954f5f67afebe623cc1afbeff0ab2dce1a40db3ff6aeb014",
+        "url": "https://picsum.photos/1111/583?random=342",
+        "alt": "Featured image for: Money Saving Life Tips Tutorials for Beginners",
+        "width": 1111,
+        "height": 583
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-money-saving-life-tips-tutorials-techniques",
+      "title": "Advanced Money Saving Life Tips Tutorials Techniques",
+      "category": "tutorials-money-saving-life-tips",
+      "created_at": "2026-06-04T11:36:40.564568",
+      "image": {
+        "id": "e00d3650140b1c114e15e665841b46d34dc7e2249b6c20aa84cd53ec8831e8b1",
+        "url": "https://picsum.photos/1065/479?random=16",
+        "alt": "Featured image for: Advanced Money Saving Life Tips Tutorials Techniques",
+        "width": 1065,
+        "height": 479
+      }
+    }
+  ],
+  "categories": [
+    "beginner-money-saving-life-tips",
+    "advanced-money-saving-life-tips",
+    "tips-money-saving-life-tips",
+    "history-money-saving-life-tips",
+    "trending-money-saving-life-tips",
+    "tutorials-money-saving-life-tips"
+  ]
+}

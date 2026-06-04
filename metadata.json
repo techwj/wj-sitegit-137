@@ -1,0 +1,59 @@
+{
+  "siteId": "money-saving-life-tips",
+  "generatedAt": "2026-06-04T11:36:40.626147",
+  "categories": [
+    "beginner-money-saving-life-tips",
+    "advanced-money-saving-life-tips",
+    "tips-money-saving-life-tips",
+    "history-money-saving-life-tips",
+    "trending-money-saving-life-tips",
+    "tutorials-money-saving-life-tips"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-money-saving-life-tips",
+      "category_name": "Beginner Money Saving Life Tips"
+    },
+    {
+      "category_slug": "advanced-money-saving-life-tips",
+      "category_name": "Advanced Money Saving Life Tips"
+    },
+    {
+      "category_slug": "tips-money-saving-life-tips",
+      "category_name": "Money Saving Life Tips Tips"
+    },
+    {
+      "category_slug": "history-money-saving-life-tips",
+      "category_name": "Money Saving Life Tips History"
+    },
+    {
+      "category_slug": "trending-money-saving-life-tips",
+      "category_name": "Trending Money Saving Life Tips"
+    },
+    {
+      "category_slug": "tutorials-money-saving-life-tips",
+      "category_name": "Money Saving Life Tips Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "money-saving-life-tips",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Money Saving Life Tips Central",
+    "articles_per_row": 2
+  }
+}
